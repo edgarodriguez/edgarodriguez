@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on [Rights Lab](https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/index.aspx) at University of Nottingham
-
+### Current projects:
+- 🎯 (Climate Change, Decent Work and Workers Health: Vulnerabilities and Response In Brazilian Agriculture)[https://clidewo.com]
 
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=edgarodriguez&theme=nord&show_icons=true&hide_border=true&count_private=true" alt="edgarodriguez's GitHub Stats" width="400" />
