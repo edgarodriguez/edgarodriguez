@@ -7,7 +7,7 @@
 - 🧱 Off-season labour patterns for brick kiln workers
 - 📊 Climate transition in the UK food supply
   
-### Last publications
+### Last publications:
 - [The future of decent work: Forecasting heat stress and the intersection of sustainable development challenges in India's brick kilns](https://onlinelibrary.wiley.com/doi/full/10.1002/sd.3272)
 - [Diets cannot be sustainable without ensuring the well-being of communities, workers and animals in food value chains](https://www.nature.com/articles/s43016-024-01048-0)
 - [The human cost of current and recommended diets in the U.S.](https://www.researchsquare.com/article/rs-4999594/v1)
